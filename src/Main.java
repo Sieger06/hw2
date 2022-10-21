@@ -3,6 +3,7 @@ import java.util.Arrays;
 public class Main {
     public static void main(String[] args) {
         System.out.println("Hello world!");
+
         double dog = 8;
         System.out.println(dog);
         double cat = 3.6;
